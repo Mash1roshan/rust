@@ -1,6 +1,6 @@
-#[cfg(test)]
-mod hackerrank;
+#[cfg(test)] 
+mod hackerrank; 
 
 fn main() {
-    println!("We learn Rust!");
+ println!("We learn Rust!"); 
 }
